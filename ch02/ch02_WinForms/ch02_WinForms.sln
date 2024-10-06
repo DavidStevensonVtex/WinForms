@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoForms", "TwoForms\TwoFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormProperties", "FormProperties\FormProperties.csproj", "{2F571C76-AC1E-4513-910A-29B53F8DC23B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintEvent", "PaintEvent\PaintEvent.csproj", "{20E32200-110F-401B-8E26-867335462373}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2F571C76-AC1E-4513-910A-29B53F8DC23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F571C76-AC1E-4513-910A-29B53F8DC23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F571C76-AC1E-4513-910A-29B53F8DC23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E32200-110F-401B-8E26-867335462373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E32200-110F-401B-8E26-867335462373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E32200-110F-401B-8E26-867335462373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E32200-110F-401B-8E26-867335462373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

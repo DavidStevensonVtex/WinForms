@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunFormBadly", "RunFormBadl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunFormBetter", "RunFormBetter\RunFormBetter.csproj", "{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoForms", "TwoForms\TwoForms.csproj", "{DD532E14-6606-43D7-A26A-37C181A91B73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD532E14-6606-43D7-A26A-37C181A91B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD532E14-6606-43D7-A26A-37C181A91B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD532E14-6606-43D7-A26A-37C181A91B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD532E14-6606-43D7-A26A-37C181A91B73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

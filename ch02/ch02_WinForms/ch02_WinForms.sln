@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunFormBetter", "RunFormBet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoForms", "TwoForms\TwoForms.csproj", "{DD532E14-6606-43D7-A26A-37C181A91B73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormProperties", "FormProperties\FormProperties.csproj", "{2F571C76-AC1E-4513-910A-29B53F8DC23B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DD532E14-6606-43D7-A26A-37C181A91B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD532E14-6606-43D7-A26A-37C181A91B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD532E14-6606-43D7-A26A-37C181A91B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F571C76-AC1E-4513-910A-29B53F8DC23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F571C76-AC1E-4513-910A-29B53F8DC23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F571C76-AC1E-4513-910A-29B53F8DC23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F571C76-AC1E-4513-910A-29B53F8DC23B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

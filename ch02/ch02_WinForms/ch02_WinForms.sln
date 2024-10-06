@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowForm", "ShowForm\ShowFo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunFormBadly", "RunFormBadly\RunFormBadly.csproj", "{FAAEC67E-76A1-4B36-8734-E2F635C654C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunFormBetter", "RunFormBetter\RunFormBetter.csproj", "{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FAAEC67E-76A1-4B36-8734-E2F635C654C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAAEC67E-76A1-4B36-8734-E2F635C654C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAAEC67E-76A1-4B36-8734-E2F635C654C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49CC44F-03C0-4C3B-86B1-28E0D2EB88C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

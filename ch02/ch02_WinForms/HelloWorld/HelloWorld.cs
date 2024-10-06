@@ -1,24 +1,22 @@
-namespace HelloWorld
+
+public class HelloWorld : Form
 {
-    class HelloWorld : Form
+    [STAThread]
+    static void Main()
     {
-        [STAThread]
-        static void Main()
-        {
-            Application.Run(new HelloWorld());
-        }
+        Application.Run(new HelloWorld());
+    }
 
-        public HelloWorld()
-        {
-            Text = "Hello World";
-            BackColor = Color.White;
-        }
+    public HelloWorld()
+    {
+        Text = "Hello World";
+        BackColor = Color.White;
+    }
 
-        protected override void OnPaint(PaintEventArgs pea)
-        {
-            Graphics grfx = pea.Graphics;
+    protected override void OnPaint(PaintEventArgs pea)
+    {
+        Graphics grfx = pea.Graphics;
 
-            grfx.DrawString("Hello, Windows Form!", Font, Brushes.Black, 0, 0);
-        }
+        grfx.DrawString("Hello, Windows Form!", Font, Brushes.Black, 0, 0);
     }
 }
